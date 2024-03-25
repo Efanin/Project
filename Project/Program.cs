@@ -1,2 +1,3 @@
-﻿
-Console.WriteLine("rewfwefewf");
+﻿using Project;
+
+Programm1.main();
