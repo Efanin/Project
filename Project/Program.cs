@@ -1,7 +1,7 @@
 ﻿using Project;
 using Bytescout.Spreadsheet;
 
-String1.main();
+Function1.main();
 
 
 
