@@ -1,6 +1,28 @@
 ﻿using Project;
 using Bytescout.Spreadsheet;
 
+String1.main();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 Spreadsheet doc = new Spreadsheet();
 doc.LoadFromFile("C:\\Users\\efani\\Source\\Repos\\Efanin\\Project\\Project\\excel-spreadsheet-examples-for-students.xlsx");
 Worksheet sheet = doc.Workbook.Worksheets[0];
@@ -17,3 +39,5 @@ for (int i = 0; i < data.GetLength(0); i++)
     }
     Console.WriteLine();
 }
+
+*/
